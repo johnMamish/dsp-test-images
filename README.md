@@ -7,3 +7,4 @@ Sources:
   * "General-100" (http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
   * "Photo database provided by Fabien a. p. Petitcolas" (https://homepages.cae.wisc.edu/~ece533/images/)
   * USC Viterbi database (http://sipi.usc.edu/database/database.php)
+  * Berkeley Segmentation Data Set and Benchmarks 500 (BSDS500) https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
